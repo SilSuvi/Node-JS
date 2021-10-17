@@ -1,0 +1,15 @@
+{
+  "name": "node-js-carlos",
+  "version": "1.0.0",
+  "main": "ej1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "exact-math": "^2.2.3"
+  }
+}
